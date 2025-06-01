@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div =alingcenter>
+
+<img src="https://raw.githubusercontent.com/shashibukay/gitrepo/output/snake.svg" alt="Snake animation" />
+
+</div>
