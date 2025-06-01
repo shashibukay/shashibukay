@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <div alig=center>
 
-<img src="https://raw.githubusercontent.com/shashibukay/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/shashibukay/shashibukay/output/snake.svg" alt="Snake animation" />
 
 </div>
