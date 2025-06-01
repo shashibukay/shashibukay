@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div =aligcenter>
+<div alig=center>
 
 <img src="https://raw.githubusercontent.com/shashibukay/gitrepo/output/snake.svg" alt="Snake animation" />
 
