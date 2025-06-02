@@ -10,7 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
 <br>
-  <img src="https://static.wixstatic.com/media/9adcc5_38347e344ecd41d8822e6576c99e55e3~mv2.gif" >
+  <img src="https://static.wixstatic.com/media/9adcc5_38347e344ecd41d8822e6576c99e55e3~mv2.gif" align="center" >
 </br>
 
 ## tecnologias que uso no meu dia
