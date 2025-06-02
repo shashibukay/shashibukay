@@ -1,4 +1,4 @@
-## i am shashibukay
+## olá eu sou shashibukay
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/885000925457023027
 )
 
@@ -6,6 +6,8 @@
 
 
 ![shashibukay GitHub stats](https://github-readme-stats.vercel.app/api?username=shashibukay&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
 ## tecnologias que uso no meu dia
 
@@ -24,6 +26,10 @@
 
 
 </div>
+
+<br>
+  <img src="https://static.wixstatic.com/media/9adcc5_38347e344ecd41d8822e6576c99e55e3~mv2.gif" width="300">
+</br>
 <div alig=center>
 
 <img src="https://raw.githubusercontent.com/shashibukay/shashibukay/output/snake.svg" alt="Snake animation" />
