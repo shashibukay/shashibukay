@@ -31,7 +31,7 @@
 </div>
 <br>
 
-<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
+<img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" width="300">
 
 </br>
 
