@@ -28,6 +28,6 @@
 </div>
 
 <br>
-  <img src="https://static.wixstatic.com/media/9adcc5_38347e344ecd41d8822e6576c99e55e3~mv2.gif" width="300">
+  <img src="https://static.wixstatic.com/media/9adcc5_38347e344ecd41d8822e6576c99e55e3~mv2.gif" >
 </br>
 
