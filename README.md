@@ -1,7 +1,7 @@
 ## olá eu sou shashibukay
 
 <br>
-  <img src="https://static.wixstatic.com/media/9adcc5_38347e344ecd41d8822e6576c99e55e3~mv2.gif" width="0" >
+  <img src="https://static.wixstatic.com/media/9adcc5_38347e344ecd41d8822e6576c99e55e3~mv2.gif" width="400" >
 </br>
 
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/885000925457023027
