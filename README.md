@@ -29,6 +29,9 @@ I help deliver secure web applications that scale seamlessly
 
    <img align="center" alt="node.js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
+    <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+   
+
 
 </div>
 <br>
