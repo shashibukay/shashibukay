@@ -7,6 +7,9 @@ I help deliver secure web applications that scale seamlessly
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateuz_zo?igsh=NzVwOWU2MXh6cjF5)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-zwirtes-3698bb305?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBW1QawA8RzyP6xVx3B0Y6g%3D%3D)
+
+
 
 ![shashibukay GitHub stats](https://github-readme-stats.vercel.app/api?username=shashibukay&show_icons=true&theme=radical)
 
