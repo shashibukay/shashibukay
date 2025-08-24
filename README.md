@@ -1,5 +1,7 @@
 ## i am shashibukay
 
+I help deliver secure web applications that scale seamlessly
+
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/885000925457023027
 )
 
